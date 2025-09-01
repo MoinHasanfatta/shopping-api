@@ -1,7 +1,6 @@
 {
-  "name": "api-dep",
+  "name": "shopping-api",
   "version": "1.0.0",
-  "main": "index.js",
   "type": "module",
   "dependencies": {
     "cors": "^2.8.5",
