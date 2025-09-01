@@ -17,6 +17,4 @@ app.get("/shopping", (req, res) => {
   res.json(items);
 });
 
-app.listen(PORT, () => {
-  console.log(`Server running at http://localhost:${PORT}`);
-});
+export default app;
